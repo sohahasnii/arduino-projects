@@ -45,17 +45,7 @@ The Arduino program:
 * LED control
 
 ## 🚀 How It Works
-Arduino Pin 7 (any digital pin can be used)
-     ↓
-   LED ON
-     ↓
-  Wait 5 sec
-     ↓
-   LED OFF
-     ↓
-  Wait 5 sec
-     ↓
-    Repeat
+Arduino Pin 7 (any digital pin can be used) --> LED ON --> Wait 5 sec --> LED OFF --> Wait 5 sec --> Repeat
 
 
 ## 📌 Note
