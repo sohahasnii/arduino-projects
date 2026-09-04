@@ -1,10 +1,10 @@
-# 💡 LED Chaser
+#LED Chaser
 
 A simple beginner-friendly Arduino project that creates a **chasing LED effect** by turning multiple LEDs ON and OFF one after another.
 
 This project is useful for learning the basics of **digital output, GPIO pins, `digitalWrite()`, and `delay()`**.
 
-## 🛠️ Components Required
+##Components Required
 
 * Arduino UNO
 * 5 × LEDs
@@ -13,7 +13,7 @@ This project is useful for learning the basics of **digital output, GPIO pins, `
 * Jumper wires
 * USB cable
 
-## 🔌 Circuit Connections
+## Circuit Connections
 
 | LED   | Arduino Pin |
 | ----- | ----------- |
@@ -29,7 +29,7 @@ LED Cathode (-) → GND
 
 > ⚠️ Use a resistor with each LED to limit the current and protect the LED.
 
-## ⚙️ How It Works
+## How It Works
 
 The Arduino turns each LED ON for a short period and then turns it OFF before moving to the next LED.
 
