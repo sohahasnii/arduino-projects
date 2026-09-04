@@ -1,4 +1,4 @@
-#LED Chaser
+# LED Chaser
 
 A simple beginner-friendly Arduino project that creates a **chasing LED effect** by turning multiple LEDs ON and OFF one after another.
 
